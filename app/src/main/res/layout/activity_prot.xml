@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Proteção"
+            android:id="@+id/textView15"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="São ações específicas para prevenir riscos e exposições às doenças, ou seja, para manter o estado de saúde. Como por exemplo:\n    - as ações de tratamento da água para evitar a cólera e outras doenças;\n    - prevenção de complicação da gravidez, parto e do puerpério;\n    - imunizações;\n    - prevenção de doenças transmitidas pelo sexo - DST e AIDS;\n    - prevenção da cárie dental;\n    - prevenção de doenças contraídas no trabalho;\n    - prevenção de câncer de mama, de próstata, de pulmão;\n    - controle da qualidade do sangue, etc."
+            android:id="@+id/textView16"
+            android:layout_gravity="center" />
+    </LinearLayout>
+</ScrollView>

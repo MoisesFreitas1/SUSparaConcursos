@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Promoção"
+            android:id="@+id/textView13"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="São ações que buscam eliminar ou controlar as causas das doenças e agravos, ou seja, o que determina ou condiciona o aparecimento de casos.\nEstas ações estão relacionadas a fatores biológicos (herança genética como câncer, hipertensão, etc.), psicológicos (estado emocional) e sociais (condições de vida, como na desnutrição, etc.)."
+            android:id="@+id/textView14"
+            android:layout_gravity="center" />
+    </LinearLayout>
+</ScrollView>

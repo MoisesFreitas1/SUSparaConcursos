@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="História"
+            android:id="@+id/textView3"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Antes do advento do Sistema Único de Saúde (SUS), a atuação do Ministério da Saúde se resumia às atividades de promoção de saúde e prevenção de doenças (por exemplo,vacinação), realizadas em caráter universal, e à assistência médico-hospitalar para poucas doenças; servia aos indigentes, ou seja, a quem não tinha acesso ao atendimento pelo Instituto Nacional de Assistência Médica da Previdência Social. O INAMPS foi criado peloregime militar em 1974 pelo desmembramento do Instituto Nacional de Previdência Social (INPS), que hoje é o Instituto Nacional de Seguridade Social (INSS); era uma autarquiafiliada ao Ministério da Previdência e Assistência Social (hoje Ministério da Previdência Social), e tinha a finalidade de prestar atendimento médico aos que contribuíam com aprevidência social, ou seja, aos empregados de carteira assinada. O INAMPS dispunha de estabelecimentos próprios, mas a maior parte do atendimento era realizado pela iniciativa privada; os convênios estabeleciam a remuneração por procedimento, consolidando a lógica de cuidar da doença e não da saúde.O movimento da Reforma Sanitária nasceu no meio acadêmico no início da década de 70 como forma de oposição técnica e política ao regime militar, sendo abraçado por outros setores da sociedade e pelo partido de oposição da época — o Movimento Democrático Brasileiro (MDB), atual Partido do Movimento Democrático Brasileiro (PMDB). Em meados da década de 70, com o fim do milagre econômico, ocorreu uma crise do financiamento da previdência social, com repercussões no INAMPS. Em 1979 o generalJoão Baptista Figueiredo assumiu a presidência com a promessa de abertura política, e de fato a Comissão de Saúde da Câmara dos Deputadospromoveu, no período de 9 a11 de outubro de 1979, o I Simpósio sobre Política Nacional deSaúde, que contou com participação de muitos dos integrantes do movimento e chegou a conclusões altamente favoráveis ao mesmo; ao longo da década de 80 o INAMPS passaria por sucessivas mudanças com universalização progressiva do atendimento, já numa transição com o SUS.A 8ª Conferência Nacional de Saúde foi um marco na história do SUS por vários motivos. Foi aberta em 17 de março de 1986 por José Sarney, o primeiro presidente civil após a ditadura, e foi a primeira CNS a ser aberta à sociedade; além disso, foi importante na propagação do movimento da Reforma Sanitária. A 8ª CNS resultou na implantação do Sistema Unificado e Descentralizado de Saúde (SUDS), um convênio entre o INAMPS e os governos estaduais, mas o mais importante foi ter formado as bases para aseção Da Saúde da Constituição brasileira de 5 de outubro de 1988. A Constituição de1988 foi um marco na história da saúde pública brasileira, ao definir a saúde como direito de todos e dever do Estado. A implantação do SUS foi realizada de forma gradual: primeiro veio o SUDS; depois, a incorporação do INAMPS ao Ministério da Saúde (Decreto nº 99.060, de 7 de março de 1990); e por fim a Lei Orgânica da Saúde (Lei nº 8.080, de 19 de setembro de 1990) fundou o SUS. Em poucos meses foi lançada a Lei nº 8.142, de 28 de dezembro de 1990, que imprimiu ao SUS uma de suas principais características: o controle social, ou seja, a participação dos usuários (população) na gestão do serviço. O INAMPS só foi extinto em 27 de julho de 1993 pela Lei nº 8.689."
+            android:id="@+id/textView4"
+            android:layout_gravity="center" />
+    </LinearLayout>
+</ScrollView>

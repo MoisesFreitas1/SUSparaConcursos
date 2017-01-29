@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Princípios Organizativos"
+            android:id="@+id/textView1"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Estes princípios tratam, na realidade, de formas de concretizar o SUS na prática.\nRegionalização e Hierarquização: os serviços devem ser organizados em níveis crescentes de complexidade, circunscritos a uma determinada área geográfica, planejados a partir de critérios epidemiológicos, e com definição e conhecimento da população a ser atendida. A regionalização é um processo de articulação entre os serviços que já existem, visando o comando unificado dos mesmos. Já a hierarquização deve proceder à divisão de níveis de atenção e garantir formas de acesso a serviços que façam parte da complexidade requerida pelo caso, nos limites dos recursos disponíveis numa dada região.\nDescentralização e Comando Único: descentralizar é redistribuir poder e responsabilidade entre os três níveis de governo. Com relação à saúde, descentralização objetiva prestar serviços com maior qualidade e garantir o controle e a fiscalização por parte dos cidadãos. No SUS, a responsabilidade pela saúde deve ser descentralizada até o município, ou seja, devem ser fornecidas ao município condições gerenciais, técnicas, administrativas e financeiras para exercer esta função. Para que valha o princípio da descentralização, existe a concepção constitucional do mando único, onde cada esfera de governo é autônoma e soberana nas suas decisões e atividades, respeitando os princípios gerais e a participação da sociedade.\nParticipação Popular: a sociedade deve participar no dia-a-dia do sistema. Para isto, devem ser criados os Conselhos e as Conferências de Saúde, que visam formular estratégias, controlar e avaliar a execução da política de saúde."
+            android:id="@+id/textView2"
+            android:layout_gravity="center" />
+    </LinearLayout>
+</ScrollView>

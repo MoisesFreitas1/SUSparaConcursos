@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Controle Social"
+            android:id="@+id/textView9"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Tanto a Constituição Federal como as leis orgânicas da saúde (8.080 e 8.142) estabelecem que saúde é direito de todos e dever do estado e suas ações e serviços devem ser organizados com a participação da comunidade. Isso quer dizer que o SUS impõe o direito de cidadania que deve ser exercido, institucionalmente, através dos Conselhos de Saúde, em cada esfera de governo – federal, estadual e municipal.  Embora em muitos lugares, os Conselhos de Saúde não sejam mais do que palco de imposições governamentais e de influências partidárias ou corporativas, no geral o resultado parece apontar para a democratização da saúde.\n Avaliações dos Conselhos de Saúde existentes apontam para a necessidade de se propiciar a capacitação dos conselheiros mediante cursos regulares e de prover, de forma sistemática, as informações necessárias para o exercício do controle social da saúde. "
+            android:id="@+id/textView10"
+            android:layout_gravity="center" />
+    </LinearLayout>
+</ScrollView>

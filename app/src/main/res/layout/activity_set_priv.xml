@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="O Setor Privado"
+            android:id="@+id/textView11"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="O setor privado participa do SUS de forma complementar, por meio de contratos e convênios de prestação de serviço ao Estado - quando as unidades públicas de saúde não são suficientes para garantir o atendimento a toda a população de uma determinada região.\nA Constituição definiu que quando, por insuficiência do setor público, for necessário a contratação de serviços privados, isto se deve dar sob três condições:\n    1 - A celebração do contrato conforme as normas de direito público;\n    2 - A instituição privada deverá estar de acordo com os princípios básicos e normas técnicas do SUS;\n    3 - A integração dos serviços privados deverá se dar na mesma lógica do SUS em termos de posição definida na rede regionalizada e hierarquizada dos serviços. Dentre os serviços privados, devem ter preferência os serviços não lucrativos (hospitais Filantrópicos -Santas Casas), conforme determina a Constituição. Assim cada gestor deverá planejar primeiro o setor público e na sequência, complementar a rede assistencial com o setor privado não lucrativo, com os mesmos conceitos de regionalização, hierarquização e universalização."
+            android:id="@+id/textView12"
+            android:layout_gravity="center" />
+    </LinearLayout>
+</ScrollView>
